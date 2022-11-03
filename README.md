@@ -2,23 +2,8 @@
 
 ## Project setup
 ```
-npm install
+1) download project from GitHub
+2) cd into project location on local machine
+3) run: npm install
+4) run: npm run serve
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
